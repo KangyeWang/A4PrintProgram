@@ -1,0 +1,27 @@
+F:\OwnProject\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.dll
+F:\OwnProject\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.pdb
+F:\OwnProject\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+F:\OwnProject\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.dll
+F:\OwnProject\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.pdb
+E:\OwnProject\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.dll
+E:\OwnProject\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.pdb
+E:\OwnProject\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\OwnProject\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.dll
+E:\OwnProject\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.pdb
+E:\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.dll
+E:\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.pdb
+E:\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.dll
+E:\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.pdb
+C:\Users\kangye\Documents\Visual Studio 2013\Projects\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.dll
+C:\Users\kangye\Documents\Visual Studio 2013\Projects\barcode_src\BarcodeLib\bin\x86\Debug\BarcodeLib.pdb
+C:\Users\kangye\Documents\Visual Studio 2013\Projects\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.dll
+C:\Users\kangye\Documents\Visual Studio 2013\Projects\barcode_src\BarcodeLib\obj\x86\Debug\BarcodeLib.pdb
+E:\OwnProject\给exe传递参数\新建文件夹\test2\BarcodeLib\bin\x86\Debug\BarcodeLib.dll
+E:\OwnProject\给exe传递参数\新建文件夹\test2\BarcodeLib\bin\x86\Debug\BarcodeLib.pdb
+E:\OwnProject\给exe传递参数\新建文件夹\test2\BarcodeLib\obj\x86\Debug\BarcodeLib.dll
+E:\OwnProject\给exe传递参数\新建文件夹\test2\BarcodeLib\obj\x86\Debug\BarcodeLib.pdb
+E:\OwnProject\THP\test2\BarcodeLib\bin\x86\Debug\BarcodeLib.dll
+E:\OwnProject\THP\test2\BarcodeLib\bin\x86\Debug\BarcodeLib.pdb
+E:\OwnProject\THP\test2\BarcodeLib\obj\x86\Debug\BarcodeLib.dll
+E:\OwnProject\THP\test2\BarcodeLib\obj\x86\Debug\BarcodeLib.pdb
+E:\OwnProject\THP\test2\BarcodeLib\obj\x86\Debug\BarcodeLib.csprojResolveAssemblyReference.cache

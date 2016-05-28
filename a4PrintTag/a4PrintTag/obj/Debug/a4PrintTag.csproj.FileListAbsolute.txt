@@ -1,0 +1,51 @@
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.csprojResolveAssemblyReference.cache
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.Form1.resources
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.Properties.Resources.resources
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.csproj.GenerateResource.Cache
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.pdb
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.exe
+c:\users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.pdb
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\BarcodeLib.dll
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\NLog.dll
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\BarcodeLib.pdb
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\NLog.xml
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe.config
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe.manifest
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.application
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.exe.manifest
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.application
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe.config
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.exe
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.pdb
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe.manifest
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.application
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.pdb
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\BarcodeLib.dll
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\NLog.dll
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\BarcodeLib.pdb
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\NLog.xml
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.Form1.resources
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.Properties.Resources.resources
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.csproj.GenerateResource.Cache
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.exe.manifest
+G:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.application
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe.config
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.exe
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.pdb
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe.manifest
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.application
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.exe
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\a4PrintTag.pdb
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\BarcodeLib.dll
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\NLog.dll
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\BarcodeLib.pdb
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\NLog.xml
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.Form1.resources
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.Properties.Resources.resources
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.csproj.GenerateResource.Cache
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.exe.manifest
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\obj\Debug\a4PrintTag.application
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\Newtonsoft.Json.dll
+D:\OwnProject\Projects\a4PrintTag\a4PrintTag\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,17 @@
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\a4PrintTag.exe.config
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\a4PrintTag.exe.manifest
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\a4PrintTag.application
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\a4PrintTag.exe
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\a4PrintTag.pdb
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\BarcodeLib.dll
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\NLog.dll
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\BarcodeLib.pdb
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\bin\Release\NLog.xml
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.Form1.resources
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.Properties.Resources.resources
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.csproj.GenerateResource.Cache
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.exe.manifest
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.application
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.exe
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.pdb
+C:\Users\kangye\documents\visual studio 2013\Projects\a4PrintTag\a4PrintTag\obj\Release\a4PrintTag.csprojResolveAssemblyReference.cache

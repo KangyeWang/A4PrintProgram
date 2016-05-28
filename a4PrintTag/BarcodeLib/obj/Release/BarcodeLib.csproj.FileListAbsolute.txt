@@ -1,0 +1,5 @@
+E:\OwnProject\THP\test2\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\OwnProject\THP\test2\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\OwnProject\THP\test2\BarcodeLib\obj\Release\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\OwnProject\THP\test2\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\OwnProject\THP\test2\BarcodeLib\obj\Release\BarcodeLib.pdb
